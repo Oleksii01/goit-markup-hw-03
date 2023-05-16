@@ -267,7 +267,7 @@ background-color: var(--hover-focus-color);
   letter-spacing: 0.02em;
   color:var(--text-color);
   text-decoration: none;
- text-align: center;
+  text-align: center;
 }
 
 .mail{
@@ -391,4 +391,7 @@ padding: 96px 0 120px;
 }
 .items-list{
   width: calc((100% - 48px) / 3); 
+}
+.use{
+  text-align: start;
 }
